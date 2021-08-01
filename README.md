@@ -1,5 +1,4 @@
 # YouTube-Downloader_G
-# YouTube-Downloader
 
 A simple YouTube downloader bot with permenent thumbnail support
 
@@ -7,20 +6,21 @@ A simple YouTube downloader bot with permenent thumbnail support
 Scrapped some code from @SpEcHIDe's AnyDLBot Repository
 Made with Python3
 ```
+Ethiopia 🇪🇹
 
 ## Deploy 
 
 <b>Deploy on Heroku</b>
 <p align="left">
-  <a href="https://heroku.com/deploy?template=https://github.com/FayasNoushad/YouTube-Downloader">
+  <a href="https://heroku.com/deploy?template=https://github.com/girume1/YouTube-Downloader_G">
      <img height="30px" src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku">
   </a>
 </p>
 
 <b>Deploy in your vps</b>
 ```
-git clone https://github.com/FayasNoushad/YouTube-Downloader
-cd YouTube-Downloader
+git clone https://github.com/girume1/YouTube-Downloader_G
+cd YouTube-Downloader_G
 pip3 install -r requirements.txt
 # <Create Variables appropriately>
 python3 bot.py
@@ -36,13 +36,12 @@ python3 bot.py
 
 ## Accounts
 
-* [Twitter](https://twitter.com/FayasNoushad)
-* [YouTube](https://youtube.com/channel/UCo3BrCslEn8ru34gTXyfVnQ)
+* [Instagram](https://instagram.com/girum_swag)
 * [GitHub](https://github.com/girume1)
-* [Telegram](https://telegram.me/FayasNoushad)
+* [Telegram](https://telegram.me/Gir1st)
 
 ## Credits
 
-* [Fayas Noushad](https://github.com/FayasNoushad)
+* [Girum](https://github.com/girume1)
 * [Shrimadhav UK](https://github.com/SpEcHIDe)
 * [Pyrogram](https://github.com/pyrogram/pyrogram)
